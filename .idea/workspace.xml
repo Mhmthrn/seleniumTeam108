@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="" />
+    <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day01_seleniumGiris/B000_Hausaufgabe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day01_seleniumGiris/B001_Hausaufgabe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +53,9 @@
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C06_DriverManegeMethodlari">
-    <configuration name="C02_DriverMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C02_DriverMethodlari" />
+  <component name="RunManager" selected="Application.B001_Hausaufgabe1">
+    <configuration name="B001_Hausaufgabe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.B001_Hausaufgabe1" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Driver_Methodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C03_Driver_Methodlari" />
+    <configuration name="C00_Hausaufgabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C00_Hausaufgabe" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B001_Hausaufgabe1" />
+        <item itemvalue="Application.C00_Hausaufgabe" />
         <item itemvalue="Application.C06_DriverManegeMethodlari" />
         <item itemvalue="Application.C05_DriverNavigateMethodlari" />
         <item itemvalue="Application.C04_DriverMethodlari" />
-        <item itemvalue="Application.C03_Driver_Methodlari" />
-        <item itemvalue="Application.C02_DriverMethodlari" />
       </list>
     </recent_temporary>
   </component>
