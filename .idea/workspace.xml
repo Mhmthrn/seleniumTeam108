@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day01_seleniumGiris/B000_Hausaufgabe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day01_seleniumGiris/B001_Hausaufgabe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C01_DriverManageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C02_ImplicitliyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C03_DriverMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C04_WebElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C05_FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C06_AutomationExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_WebElements_locators/C07_Ubungs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +57,13 @@
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B001_Hausaufgabe1">
-    <configuration name="B001_Hausaufgabe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.B001_Hausaufgabe1" />
+  <component name="RunManager" selected="Application.C07_Ubungs">
+    <configuration name="C03_DriverMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_WebElements_locators.C03_DriverMethodlari" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_seleniumGiris.*" />
+          <option name="PATTERN" value="day02_WebElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C00_Hausaufgabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C00_Hausaufgabe" />
+    <configuration name="C04_WebElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_WebElements_locators.C04_WebElements" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_seleniumGiris.*" />
+          <option name="PATTERN" value="day02_WebElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DriverMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C04_DriverMethodlari" />
+    <configuration name="C05_FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_WebElements_locators.C05_FindElements" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_seleniumGiris.*" />
+          <option name="PATTERN" value="day02_WebElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_DriverNavigateMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C05_DriverNavigateMethodlari" />
+    <configuration name="C06_AutomationExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_WebElements_locators.C06_AutomationExercise" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_seleniumGiris.*" />
+          <option name="PATTERN" value="day02_WebElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_DriverManegeMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumGiris.C06_DriverManegeMethodlari" />
+    <configuration name="C07_Ubungs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_WebElements_locators.C07_Ubungs" />
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_seleniumGiris.*" />
+          <option name="PATTERN" value="day02_WebElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B001_Hausaufgabe1" />
-        <item itemvalue="Application.C00_Hausaufgabe" />
-        <item itemvalue="Application.C06_DriverManegeMethodlari" />
-        <item itemvalue="Application.C05_DriverNavigateMethodlari" />
-        <item itemvalue="Application.C04_DriverMethodlari" />
+        <item itemvalue="Application.C07_Ubungs" />
+        <item itemvalue="Application.C06_AutomationExercise" />
+        <item itemvalue="Application.C05_FindElements" />
+        <item itemvalue="Application.C04_WebElements" />
+        <item itemvalue="Application.C03_DriverMethodlari" />
       </list>
     </recent_temporary>
   </component>
