@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C01_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C02_XpathText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C03_CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C04_CookiesGecme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C05_RelativeLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C06_MavenIlkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C01_TestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C02_ZeroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C03_BeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C04_BeforeAfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C05_BirlikteKullanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C06_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C07_IlkAssertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -57,79 +58,89 @@
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C06_MavenIlkClass">
-    <configuration name="C01_Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C01_Xpath" />
+  <component name="RunManager" selected="JUnit.C07_IlkAssertion">
+    <configuration name="C03_BeforeAfter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
+          <option name="PATTERN" value="day04_junitFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
+      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C03_BeforeAfter" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C03_CssSelector" />
+    <configuration name="C04_BeforeAfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
+          <option name="PATTERN" value="day04_junitFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
+      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C04_BeforeAfterClass" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_CookiesGecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C04_CookiesGecme" />
+    <configuration name="C05_BirlikteKullanim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
+          <option name="PATTERN" value="day04_junitFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
+      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C05_BirlikteKullanim" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C05_RelativeLocators" />
+    <configuration name="C06_Assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
+          <option name="PATTERN" value="day04_junitFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
+      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C06_Assertions" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_MavenIlkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C06_MavenIlkClass" />
+    <configuration name="C07_IlkAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
+          <option name="PATTERN" value="day04_junitFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
+      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C07_IlkAssertion" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_MavenIlkClass" />
-        <item itemvalue="Application.C05_RelativeLocators" />
-        <item itemvalue="Application.C04_CookiesGecme" />
-        <item itemvalue="Application.C03_CssSelector" />
-        <item itemvalue="Application.C01_Xpath" />
+        <item itemvalue="JUnit.C07_IlkAssertion" />
+        <item itemvalue="JUnit.C06_Assertions" />
+        <item itemvalue="JUnit.C05_BirlikteKullanim" />
+        <item itemvalue="JUnit.C04_BeforeAfterClass" />
+        <item itemvalue="JUnit.C03_BeforeAfter" />
       </list>
     </recent_temporary>
   </component>
