@@ -17,10 +17,6 @@ import java.time.Duration;
 public class C04_BeforeAfterClass {
 
     // 3 test method'u olusturun
-
-
-
-
     // Eger herbir test methodu icin driver olusturup sonunda kapatmamiz gerekmiyorsa
     // classin basinda bir kez driver olusturup clasin sonunda kapatabiliriz.
 

@@ -20,7 +20,7 @@ public class C01_TestNotasyonu {
                     bize kazandirdigi en onemli ozellik @Test Annotation (Notasyon) dur.
 
                     @Test notasyonu sayesinde herbir method
-                    bagimsiz olarak calistirilabilrn bir test
+                    bagimsiz olarak calistirilabilen bir test
                     methodu olur.
 
                     Test notasyonu sayesinde istersek herbir test methodunu basgimsiz calistirabildigimiz gibi
