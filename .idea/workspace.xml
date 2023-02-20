@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C02_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C03_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C04_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C05_TestBaseIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C06_DropdownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C07_JavaScriptAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C01_TestNotasyonu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C01_TestNotasyonu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C02_ZeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C02_ZeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C04_BeforeAfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C04_BeforeAfterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,86 +59,92 @@
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Q1" />
+  <component name="RunManager" selected="JUnit.C07_JavaScriptAlert.test03">
+    <configuration name="C05_TestBaseIlkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
+      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C05_TestBaseIlkTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Q2" />
+    <configuration name="C06_DropdownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
+      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C06_DropdownMenu" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_BeforeAfter.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C07_JavaScriptAlert.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_junitFrameWork.*" />
+          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
-      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C03_BeforeAfter" />
+      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
+      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C07_JavaScriptAlert" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_BirlikteKullanim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C07_JavaScriptAlert.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_junitFrameWork.*" />
+          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
-      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C05_BirlikteKullanim" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
+      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C07_JavaScriptAlert" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_IlkAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C07_JavaScriptAlert.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_junitFrameWork.*" />
+          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_junitFrameWork" />
-      <option name="MAIN_CLASS_NAME" value="day04_junitFrameWork.C07_IlkAssertion" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
+      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C07_JavaScriptAlert" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.Q1" />
-        <item itemvalue="JUnit.C05_BirlikteKullanim" />
-        <item itemvalue="JUnit.C03_BeforeAfter.test01" />
-        <item itemvalue="JUnit.C07_IlkAssertion" />
+        <item itemvalue="JUnit.C07_JavaScriptAlert.test03" />
+        <item itemvalue="JUnit.C07_JavaScriptAlert.test02" />
+        <item itemvalue="JUnit.C07_JavaScriptAlert.test01" />
+        <item itemvalue="JUnit.C06_DropdownMenu" />
+        <item itemvalue="JUnit.C05_TestBaseIlkTest" />
       </list>
     </recent_temporary>
   </component>
