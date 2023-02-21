@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C01_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C02_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C03_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C04_Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C05_TestBaseIlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C06_DropdownMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_assertions_dropdownMenu/C07_JavaScriptAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C01_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C02_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C03_SwitchWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C04_SwitchToWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C05_ActionsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C06_DragAndDrop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,80 +58,81 @@
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C07_JavaScriptAlert.test03">
-    <configuration name="C05_TestBaseIlkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C06_DragAndDrop.test01">
+    <configuration name="C03_SwitchWindows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
+          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
-      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C05_TestBaseIlkTest" />
+      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
+      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C03_SwitchWindows" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_DropdownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_SwitchWindows.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
+          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
-      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C06_DropdownMenu" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
+      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C03_SwitchWindows" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_JavaScriptAlert.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_SwitchToWindow.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
+          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
-      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C07_JavaScriptAlert" />
+      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
+      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C04_SwitchToWindow" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_JavaScriptAlert.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_ActionsClass.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
+          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
-      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C07_JavaScriptAlert" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
+      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C05_ActionsClass" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_JavaScriptAlert.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_DragAndDrop.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_assertions_dropdownMenu.*" />
+          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day05_assertions_dropdownMenu" />
-      <option name="MAIN_CLASS_NAME" value="day05_assertions_dropdownMenu.C07_JavaScriptAlert" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
+      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C06_DragAndDrop" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C07_JavaScriptAlert.test03" />
-        <item itemvalue="JUnit.C07_JavaScriptAlert.test02" />
-        <item itemvalue="JUnit.C07_JavaScriptAlert.test01" />
-        <item itemvalue="JUnit.C06_DropdownMenu" />
-        <item itemvalue="JUnit.C05_TestBaseIlkTest" />
+        <item itemvalue="JUnit.C06_DragAndDrop.test01" />
+        <item itemvalue="JUnit.C05_ActionsClass.test01" />
+        <item itemvalue="JUnit.C04_SwitchToWindow.test01" />
+        <item itemvalue="JUnit.C03_SwitchWindows" />
+        <item itemvalue="JUnit.C03_SwitchWindows.test" />
       </list>
     </recent_temporary>
   </component>
