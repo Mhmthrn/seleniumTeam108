@@ -7,7 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import javax.swing.*;
 import java.util.Set;
 
 public class C05_ActionsClass extends TestBase {

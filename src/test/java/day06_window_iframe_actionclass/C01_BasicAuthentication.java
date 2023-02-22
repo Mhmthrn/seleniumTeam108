@@ -3,7 +3,6 @@ package day06_window_iframe_actionclass;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
 public class C01_BasicAuthentication extends TestBase {

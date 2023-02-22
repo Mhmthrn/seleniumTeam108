@@ -8,8 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WindowType;
 import utilities.TestBase;
 
-import javax.swing.*;
-
 public class C03_SwitchWindows extends TestBase {
 
     @Test

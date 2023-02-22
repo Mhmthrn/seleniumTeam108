@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C01_BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C02_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C03_SwitchWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C04_SwitchToWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C05_ActionsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C06_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C01_MoveToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C02_ActionsKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C03_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C04_FilePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C05_DinamikDosyaYolu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C06_FileExistTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C07_FileExistsTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C08_FileUploadTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C09_Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C01_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C01_BasicAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C03_SwitchWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C03_SwitchWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C05_ActionsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day06_window_iframe_actionclass/C05_ActionsClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,81 +64,81 @@
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C06_DragAndDrop.test01">
-    <configuration name="C03_SwitchWindows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C09_Waits">
+    <configuration name="C04_FilePath.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
+          <option name="PATTERN" value="day07_actionsClass_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
-      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C03_SwitchWindows" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day07_actionsClass_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="day07_actionsClass_fileTestleri.C04_FilePath" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_SwitchWindows.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C07_FileExistsTesti.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
+          <option name="PATTERN" value="day07_actionsClass_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
-      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C03_SwitchWindows" />
+      <option name="PACKAGE_NAME" value="day07_actionsClass_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="day07_actionsClass_fileTestleri.C07_FileExistsTesti" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_SwitchToWindow.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C08_FileUploadTesti.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
+          <option name="PATTERN" value="day07_actionsClass_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
-      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C04_SwitchToWindow" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day07_actionsClass_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="day07_actionsClass_fileTestleri.C08_FileUploadTesti" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_ActionsClass.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C09_Waits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
+          <option name="PATTERN" value="day07_actionsClass_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
-      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C05_ActionsClass" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="day07_actionsClass_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="day07_actionsClass_fileTestleri.C09_Waits" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_DragAndDrop.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C09_Waits.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_window_iframe_actionclass.*" />
+          <option name="PATTERN" value="day07_actionsClass_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_window_iframe_actionclass" />
-      <option name="MAIN_CLASS_NAME" value="day06_window_iframe_actionclass.C06_DragAndDrop" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day07_actionsClass_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="day07_actionsClass_fileTestleri.C09_Waits" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C06_DragAndDrop.test01" />
-        <item itemvalue="JUnit.C05_ActionsClass.test01" />
-        <item itemvalue="JUnit.C04_SwitchToWindow.test01" />
-        <item itemvalue="JUnit.C03_SwitchWindows" />
-        <item itemvalue="JUnit.C03_SwitchWindows.test" />
+        <item itemvalue="JUnit.C09_Waits" />
+        <item itemvalue="JUnit.C09_Waits.test" />
+        <item itemvalue="JUnit.C08_FileUploadTesti.test" />
+        <item itemvalue="JUnit.C07_FileExistsTesti.test" />
+        <item itemvalue="JUnit.C04_FilePath.test01" />
       </list>
     </recent_temporary>
   </component>
