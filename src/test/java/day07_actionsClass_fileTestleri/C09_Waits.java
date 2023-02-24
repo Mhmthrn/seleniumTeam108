@@ -9,32 +9,24 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.time.Duration;
+
 public class C09_Waits {
     @Test
-    public void test(){
+    public void test01(){
         WebDriverManager.chromedriver().setup();
         WebDriver driver= new ChromeDriver();
         driver.manage().window().maximize();
-        // driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-
-
-        // amazona gidelim
-        driver.get("https://www.amazon.com");
-
-        // Nutella aratalim
-        driver.findElement(By.id("twotabsearchtextbox"))
-                .sendKeys("Nutella" + Keys.ENTER);
-
-        // Sonuclarin Nutella icerdigini test edelim
-        WebElement actualSonucYaziElementi= driver.findElement(By.xpath("//h1[@class='a-size-base s-desktop-toolbar a-text-normal']"));
-
-        String expectedIcerik= "Nutella";
-        String actualSonucYazisi= actualSonucYaziElementi.getText();
-        Assert.assertTrue(actualSonucYazisi.contains(expectedIcerik));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+        //3. https://the-internet.herokuapp.com/dynamic_controls adresine gidin.
+        driver.get("https://the-internet.herokuapp.com/dynamic_controls");
+        //4. Remove butonuna basin.
+        driver.findElement(By.xpath("//*[text()='Remove']")).click();
+        //5. “It’s gone!” mesajinin goruntulendigini dogrulayin.
+        WebElement itsGoneElementi=
+                driver.findElement(By.xpath("//*[text()=\"It's gone!\"]"));
+        Assert.assertTrue(itsGoneElementi.isDisplayed());
         driver.close();
-
-
     }
-
     }
 
