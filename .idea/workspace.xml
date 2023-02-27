@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af58fee-47bb-4b13-a9ee-25950552749d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C01_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C02_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C03_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C04_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C05_WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C06_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C03_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C04_TumSayfaScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C05_WebElementScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C06_ReusableMethodTumSayfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C07_ReusableMethods_Webelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/C08_JavaScriptExecuterClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_excel_screenshot_jsExecutor/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C09_Waits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day07_actionsClass_fileTestleri/C09_Waits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C03_BeforeAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day04_junitFrameWork/C03_BeforeAfter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C06_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day08_explicitlyWait_cookies_webTables/C06_WebTables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,99 +46,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/com.seleniumTeam108/src/main/driver/selenium-java-4.8.0/lib/slf4j-api-2.0.6.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/com.seleniumTeam108/src/test/java/day09_excel_screenshot_jsExecutor",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\test\java\day09_excel_screenshot_jsExecutor" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\IdeaProjects\com.seleniumTeam108\src\main\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C06_WebTables.test">
-    <configuration name="C03_ExplicitlyWait.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C08_JavaScriptExecuterClick.test01">
+    <configuration name="C04_TumSayfaScreenshot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08_explicitlyWait_cookies_webTables.*" />
+          <option name="PATTERN" value="day09_excel_screenshot_jsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08_explicitlyWait_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day08_explicitlyWait_cookies_webTables.C03_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_Cookies.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.seleniumTeam108" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day08_explicitlyWait_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day08_explicitlyWait_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day08_explicitlyWait_cookies_webTables.C04_Cookies" />
+      <option name="PACKAGE_NAME" value="day09_excel_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day09_excel_screenshot_jsExecutor.C04_TumSayfaScreenshot" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_WebTables.Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_WebElementScreenShot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08_explicitlyWait_cookies_webTables.*" />
+          <option name="PATTERN" value="day09_excel_screenshot_jsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08_explicitlyWait_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day08_explicitlyWait_cookies_webTables.C05_WebTables" />
-      <option name="METHOD_NAME" value="Test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_WebTables.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.seleniumTeam108" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day08_explicitlyWait_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day08_explicitlyWait_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day08_explicitlyWait_cookies_webTables.C05_WebTables" />
+      <option name="PACKAGE_NAME" value="day09_excel_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day09_excel_screenshot_jsExecutor.C05_WebElementScreenShot" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_WebTables.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_ReusableMethodTumSayfa.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.seleniumTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08_explicitlyWait_cookies_webTables.*" />
+          <option name="PATTERN" value="day09_excel_screenshot_jsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08_explicitlyWait_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day08_explicitlyWait_cookies_webTables.C06_WebTables" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="day09_excel_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day09_excel_screenshot_jsExecutor.C06_ReusableMethodTumSayfa" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_ReusableMethods_Webelement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.seleniumTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day09_excel_screenshot_jsExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day09_excel_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day09_excel_screenshot_jsExecutor.C07_ReusableMethods_Webelement" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_JavaScriptExecuterClick.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.seleniumTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day09_excel_screenshot_jsExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day09_excel_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day09_excel_screenshot_jsExecutor.C08_JavaScriptExecuterClick" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C06_WebTables.test" />
-        <item itemvalue="JUnit.C05_WebTables.test01" />
-        <item itemvalue="JUnit.C05_WebTables.Test01" />
-        <item itemvalue="JUnit.C04_Cookies.test01" />
-        <item itemvalue="JUnit.C03_ExplicitlyWait.test" />
+        <item itemvalue="JUnit.C08_JavaScriptExecuterClick.test01" />
+        <item itemvalue="JUnit.C07_ReusableMethods_Webelement.test01" />
+        <item itemvalue="JUnit.C06_ReusableMethodTumSayfa.test01" />
+        <item itemvalue="JUnit.C05_WebElementScreenShot.test01" />
+        <item itemvalue="JUnit.C04_TumSayfaScreenshot.test01" />
       </list>
     </recent_temporary>
   </component>
